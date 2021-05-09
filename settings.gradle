@@ -1,0 +1,3 @@
+rootProject.name = "Dev Kit"
+include ':app'
+include ':core_kit'
